@@ -3,4 +3,4 @@
 - API uses a Minimax Algorithm to calculate next best move
 
 # Try it below
-👉 [AI TicTacToe](ai-tictactoe-620bd.web.app)  
+👉 [AI TicTacToe](https://ai-tictactoe-620bd.web.app)  
